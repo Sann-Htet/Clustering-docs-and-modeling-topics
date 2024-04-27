@@ -1,0 +1,5 @@
+fastapi
+farm-haystack[inference]
+sklearn
+transformers
+torch
