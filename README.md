@@ -14,13 +14,13 @@ Make sure you have Python 3 installed on your system.
 1. Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Sann-Htet/Clustering-docs-and-modeling-topics.git
 ```
 
 2. Navigate into the project directory:
 
 ```sh
-cd your-repo
+cd Clustering-docs-and-modeling-topics
 ```
 
 3. Create a virtual environment:
@@ -57,7 +57,6 @@ pip install -r requirements.txt
 uvicorn api:app --reload
 ```
 
-   Replace `api` with the name of your FastAPI file (e.g., `main`) if different.
 
 2. Once the server is running, you can access the API at `http://127.0.0.1:8000` (by default). Visit this URL in your browser or use tools like Postman to interact with the APIs.
 
